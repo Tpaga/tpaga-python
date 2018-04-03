@@ -1,3 +1,6 @@
+# DEPRECATED
+DO NOT USE THIS PROJECT
+
 ## This is not currently being maintained.
 Please refer to 
 http://blog.vero4ka.info/blog/2016/08/18/como-hacer-integracion-con-tpaga-api-usando-python/
